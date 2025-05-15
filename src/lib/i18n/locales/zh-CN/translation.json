@@ -1135,7 +1135,7 @@
 	"The score should be a value between 0.0 (0%) and 1.0 (100%).": "分值应介于 0.0（0%）和 1.0（100%）之间。",
 	"The temperature of the model. Increasing the temperature will make the model answer more creatively.": "模型的温度。增加温度将使模型的回答更有创意。",
 	"Theme": "主题",
-	"Thinking": "推理",
+	"Thinking": "深度思考",
 	"Thinking...": "正在思考...",
 	"This action cannot be undone. Do you wish to continue?": "此操作无法撤销。是否确认继续？",
 	"This channel was created on {{createdAt}}. This is the very beginning of the {{channelName}} channel.": "此频道创建于{{createdAt}}，这里是{{channelName}}频道的开始",
